@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Guest Book</title>
+    <title>Template</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
@@ -17,11 +17,8 @@
             aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/home">GuestBook</a>
+    <a class="navbar-brand" href="/home">Template</a>
     <div class="collapse navbar-collapse justify-content-end" id="navbar">
 
-        <div class="navbar-nav">
-            <a class="nav-item nav-link" href="/logout">Logout</a>
-        </div>
     </div>
 </nav>
